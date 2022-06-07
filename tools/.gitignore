@@ -1,0 +1,9 @@
+# Folders
+/target
+.vscode
+.idea
+
+.DS_Store
+*.dol
+*.rel
+*.rso
