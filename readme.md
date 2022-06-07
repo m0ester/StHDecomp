@@ -1,6 +1,6 @@
 # Shadow the Hedgehog (USA)
 
-A public decompilation of Shadow the Hedgehog(USA).
+A public decompilation of Shadow the Hedgehog(USA), brought to you by a bunch of damn fourth chaos emeralds.
 
 srzg.dol Hash: `sha1: b6a0eaa2352428a0d9fabaf81e128c5618281326`
 
